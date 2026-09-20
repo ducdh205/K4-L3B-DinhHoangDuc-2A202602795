@@ -1,13 +1,13 @@
 ---
-doc_id: "shopee-buyer-dispute-process"
-title: "Quy trình giải quyết tranh chấp và khiếu nại"
-source_url: "https://help.shopee.vn/portal/4/article/77265"
-retrieved_at: "2026-09-20"
-document_version: "2024-03-15"
-audience: "buyer"
-department: "return-refund"
-category: "dispute"
-language: "vi"
+doc_id: shopee-buyer-dispute-process
+title: Quy trình giải quyết tranh chấp và khiếu nại
+source_url: https://help.shopee.vn/portal/4/article/77265
+retrieved_at: 2026-09-20
+document_version: 2024-03-15
+audience: buyer
+department: return-refund
+category: dispute
+language: vi
 ---
 
 # Quy trình giải quyết tranh chấp và khiếu nại

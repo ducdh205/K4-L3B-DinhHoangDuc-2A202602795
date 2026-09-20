@@ -1,13 +1,13 @@
 ---
-doc_id: "shopee-buyer-return-refund-request"
-title: "Hướng dẫn gửi yêu cầu trả hàng hoàn tiền"
-source_url: "https://help.shopee.vn/portal/4/article/79233-[Tr%E1%BA%A3-h%C3%A0ng/-Ho%C3%A0n-ti%E1%BB%81n]-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABy-g%C6%B0%CC%89i-y%C3%AAu-c%E1%BA%A7u-Tr%E1%BA%A3-h%C3%A0ng/-Ho%C3%A0n-ti%E1%BB%81n"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-department: "return-refund"
-category: "return-refund"
-language: "vi"
+doc_id: shopee-buyer-return-refund-request
+title: Hướng dẫn gửi yêu cầu trả hàng hoàn tiền
+source_url: https://help.shopee.vn/portal/4/article/79233-[Tr%E1%BA%A3-h%C3%A0ng/-Ho%C3%A0n-ti%E1%BB%81n]-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABy-g%C6%B0%CC%89i-y%C3%AAu-c%E1%BA%A7u-Tr%E1%BA%A3-h%C3%A0ng/-Ho%C3%A0n-ti%E1%BB%81n
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+department: return-refund
+category: return-refund
+language: vi
 ---
 
 # Hướng dẫn gửi yêu cầu trả hàng hoàn tiền

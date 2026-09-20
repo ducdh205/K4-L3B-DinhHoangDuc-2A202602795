@@ -1,13 +1,13 @@
 ---
-doc_id: "shopee-buyer-cancelled-order-rules"
-title: "Quy định đơn hàng đã hủy"
-source_url: "https://help.shopee.vn/portal/4/article/79519"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-department: "order-cancellation"
-category: "order-cancellation"
-language: "vi"
+doc_id: shopee-buyer-cancelled-order-rules
+title: Quy định đơn hàng đã hủy
+source_url: https://help.shopee.vn/portal/4/article/79519
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+department: order-cancellation
+category: order-cancellation
+language: vi
 ---
 
 # Quy định đơn hàng đã hủy

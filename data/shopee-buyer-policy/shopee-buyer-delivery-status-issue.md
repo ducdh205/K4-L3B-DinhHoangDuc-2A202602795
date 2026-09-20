@@ -1,13 +1,13 @@
 ---
-doc_id: "shopee-buyer-delivery-status-issue"
-title: "Xử lý trạng thái giao hàng cập nhật sai"
-source_url: "https://help.shopee.vn/portal/4/article/79084"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-department: "delivery-issue"
-category: "delivery-issue"
-language: "vi"
+doc_id: shopee-buyer-delivery-status-issue
+title: Xử lý trạng thái giao hàng cập nhật sai
+source_url: https://help.shopee.vn/portal/4/article/79084
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+department: delivery-issue
+category: delivery-issue
+language: vi
 ---
 
 # Xử lý trạng thái giao hàng cập nhật sai
